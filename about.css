@@ -1,0 +1,30 @@
+.jumbotron{
+     background-color: #9575CD;
+     padding: 80px 30px 70px 30px;
+}
+.row-header{
+    color: floralwhite;
+}
+.row-content{
+    margin:0px auto;
+    padding: 20px 10px;
+}
+.footer{
+    background-color: #D1C4E9;
+    margin: 0px auto;
+}
+ .navbar{
+    background-color:#7D26CD;
+}
+.logo{
+    margin-top:10px;
+}
+.btn{
+            border-radius: 8px;
+            font-weight: 550;
+            margin-top: 10px;
+}
+.modal-header{
+    background-color:#7D26CD;
+    color: white;
+}
